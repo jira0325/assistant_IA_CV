@@ -1,14 +1,14 @@
-# 🧠 Assistant IA d’Analyse Automatique de CV  
+# Assistant IA d’Analyse Automatique de CV  
 ### RAG local avec Ollama + Mistral
 
 Un assistant IA capable d’analyser plusieurs CV PDF et de les comparer à une offre d’emploi,
 afin d’identifier automatiquement le candidat le plus pertinent.
 
-👉 Le projet fonctionne **entièrement en local**, garantissant la confidentialité des données RH.
+-- Le projet fonctionne **entièrement en local**, garantissant la confidentialité des données RH.
 
 ---
 
-## 🚀 Démo
+##  Démo
 
 - Interface web : Streamlit
 - Analyse automatique des CV
@@ -16,7 +16,7 @@ afin d’identifier automatiquement le candidat le plus pertinent.
 - Forces / Gaps / Recommandations
 - Identification du meilleur CV
 
-*(Screenshots à ajouter)*
+![Upload des CV](images_demo/Capture d’écran 2025-12-15 à 10.05.34.png )  ![Upload des CV](images_demo/Capture d’écran 2025-12-15 à 10.50.18.png )
 
 ---
 
