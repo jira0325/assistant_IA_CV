@@ -16,7 +16,14 @@ afin d’identifier automatiquement le candidat le plus pertinent.
 - Forces / Gaps / Recommandations
 - Identification du meilleur CV
 
-![Upload des CV](images_demo/Capture d’écran 2025-12-15 à 10.05.34.png )  ![Upload des CV](images_demo/Capture d’écran 2025-12-15 à 10.50.18.png )
+<p align="center">
+  <img src="images_demo/Capture d’écran 2025-12-15 à 10.05.34.png" width="600">
+</p>
+
+<p align="center">
+  <img src="images_demo/Capture d’écran 2025-12-15 à 10.50.18.png" width="600">
+</p>
+
 
 ---
 
