@@ -17,11 +17,11 @@ afin d’identifier automatiquement le candidat le plus pertinent.
 - Identification du meilleur CV
 
 <p align="center">
-  <img src="images_demo/Capture d’écran 2025-12-15 à 10.05.34.png" width="600">
+  <img src="im1" width="600">
 </p>
 
 <p align="center">
-  <img src="images_demo/Capture d’écran 2025-12-15 à 10.50.18.png" width="600">
+  <img src="im2" width="600">
 </p>
 
 
