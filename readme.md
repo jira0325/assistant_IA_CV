@@ -17,11 +17,11 @@ afin d’identifier automatiquement le candidat le plus pertinent.
 - Identification du meilleur CV
 
 <p align="center">
-  <img src="im1.png" width="600">
+  <img src="images_demo/im1.png" width="600">
 </p>
 
 <p align="center">
-  <img src="im2.png" width="600">
+  <img src="images_demo/im2.png" width="600">
 </p>
 
 
