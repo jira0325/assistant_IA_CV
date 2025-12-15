@@ -82,6 +82,7 @@ Ce projet vise à :
 ## Auteur
 
 Hajar EL HIZABRI
+
 Data Scientist
 
 📎 GitHub : https://github.com/jira0325
