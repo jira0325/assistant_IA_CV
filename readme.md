@@ -24,10 +24,12 @@ afin d’identifier automatiquement le candidat le plus pertinent.
   <img src="images_demo/im2.png" width="600">
 </p>
 
-
+<p align="center">
+  <img src="images_demo/im3.png" width="600">
+</p>
 ---
 
-## 🎯 Objectif du projet
+##  Objectif du projet
 
 Dans les processus de recrutement, l’analyse manuelle de CV est :
 - chronophage
@@ -41,20 +43,20 @@ Ce projet vise à :
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-✔️ Upload de plusieurs CV PDF  
-✔️ Analyse sémantique des CV  
-✔️ Matching avec une offre d’emploi  
-✔️ Score de compatibilité (%)  
-✔️ Forces du candidat  
-✔️ Gaps techniques  
-✔️ Recommandations personnalisées  
-✔️ Sélection du meilleur CV  
+- Upload de plusieurs CV PDF  
+- Analyse sémantique des CV  
+- Matching avec une offre d’emploi  
+- Score de compatibilité (%)  
+- Forces du candidat  
+- Gaps techniques  
+- Recommandations personnalisées  
+- Sélection du meilleur CV  
 
 ---
 
-## 🏗️ Architecture (RAG)
+##  Architecture (RAG)
 
 1. Chargement des CV PDF
 2. Découpage en chunks (800 tokens, overlap 150)
@@ -65,7 +67,7 @@ Ce projet vise à :
 
 ---
 
-## 🛠️ Stack technique
+##  Stack technique
 
 - Python
 - Streamlit (interface web)
@@ -77,10 +79,11 @@ Ce projet vise à :
 
 ---
 
-## ⚙️ Installation
+## Auteur
 
-### 1️⃣ Cloner le projet
+Hajar EL HIZABRI
+Data Scientist
 
-```bash
-git clone https://github.com/jira0325/assistant_IA_CV.git
-cd assistant_IA_CV
+📎 GitHub : https://github.com/jira0325
+
+📎 Medium : medium.com/@hajarbenzekri
