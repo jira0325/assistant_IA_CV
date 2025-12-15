@@ -8,7 +8,7 @@ import sys, os
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-# LLM local (pas Groq)
+# LLM local 
 llm = ChatOllama(model="mistral")   
 
 # 1. Load PDFs

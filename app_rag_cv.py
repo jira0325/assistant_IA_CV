@@ -8,6 +8,7 @@ from langchain.chains import RetrievalQA
 from langchain_ollama import ChatOllama
 
 
+
 st.title("Assistant RAG CV avec Ollama")
 
 
@@ -51,6 +52,7 @@ st.write(f" {len(chunks)} chunks générés.")
 
 emb = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
 db = Chroma.from_documents(chunks, embedding=emb)
+
 retriever = db.as_retriever(k=3)
 
 
@@ -97,6 +99,6 @@ Conseils précis pour améliorer le CV ou augmenter l’adéquation au poste.
 Tu dois également identifier **quel CV est le meilleur pour le poste**, avec une justification.
 """
 
-    with st.spinner("🔍 Analyse en cours..."):
+    with st.spinner("Analyse en cours..."):
         response = qa.invoke({"query": structured_prompt})
         st.text_area("Résultat", response["result"], height=500)
